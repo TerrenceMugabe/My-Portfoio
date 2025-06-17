@@ -6,8 +6,6 @@ Responsive Design: Works perfectly on all devices
 
 Performance Optimized: Fast loading with minimal dependencies
 
-Vercel-inspired Theme: Clean, professional dark theme
-
 Interactive Elements: Animated sections and hover effects
 
 Project Showcase: Detailed project modals with code samples
