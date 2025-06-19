@@ -93,23 +93,23 @@ socket.onmessage = (event) => {
     `
   },
   'azure-migration': {
-    title: 'Azure Cloud Migration',
+    title: 'ZhetX Digital Agency',
     content: `
       <h4>Overview</h4>
-      <p>Migrated enterprise applications to Microsoft Azure, optimizing performance and reducing infrastructure costs by 30%.</p>
+      <p>Currently developing the official website for ZhetX Digital Agency to showcase services, portfolio, and digital expertise.</p>
       <h4>Technologies Used</h4>
       <ul>
-        <li>Azure App Services: Hosting web applications</li>
-        <li>Azure SQL Database: Managed database service</li>
-        <li>Azure DevOps: CI/CD pipelines and deployment</li>
-        <li>Azure Monitor: Performance monitoring and alerting</li>
+        <li>HTML & CSS: </li>
+        <li>JavaScript: Interactivity and DOM manipulation</li>
+        <li>React: Component-based architecture for scalability</li>
+        <li>Git & GitHub: Version control and collaboration</li>
       </ul>
-      <h4>Key Achievements</h4>
+      <h4>Key Highlights</h4>
       <ul>
-        <li>Reduced infrastructure costs by 30% through optimized resource allocation</li>
-        <li>Implemented CI/CD pipelines reducing deployment time from hours to minutes</li>
-        <li>Set up monitoring and alerting for critical systems</li>
-        <li>Improved system reliability with 99.9% uptime</li>
+        <li>Designed a clean UI with smooth navigation and responsive design.</li>
+        <li>Integrated reusable React components to support growth and flexibility.</li>
+        <li>Focused on SEO and performance optimization from the ground up.</li>
+        <li>Project is in progress — launch coming soon with full functionality.</li>
       </ul>
     `
   }
