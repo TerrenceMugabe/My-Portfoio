@@ -99,7 +99,7 @@ socket.onmessage = (event) => {
       <p>Currently developing the official website for ZhetX Digital Agency to showcase services, portfolio, and digital expertise.</p>
       <h4>Technologies Used</h4>
       <ul>
-        <li>HTML & CSS: </li>
+        <li>HTML & CSS: Layout structure and custom styling</li>
         <li>JavaScript: Interactivity and DOM manipulation</li>
         <li>React: Component-based architecture for scalability</li>
         <li>Git & GitHub: Version control and collaboration</li>
