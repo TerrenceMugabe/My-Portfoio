@@ -52,13 +52,22 @@ const projectDetails = {
       <h4>My Role</h4>
       <ul>
         <li>Defined the platform's vision, UX/UI design, and technical roadmap</li>
-        <li>Selected and optimised the platform theme for optimal user experience</li>
+        <li>Selected and customized the platform theme for optimal user experience</li>
         <li>Optimized frontend code for performance and responsiveness</li>
         <li>Implemented Google Analytics for tracking and data-driven decisions</li>
         <li>Coordinated with external developers to maintain performance, security, and scalability</li>
-        
+        <li>Managed payment gateway integration and order processing workflows</li>
       </ul>
-     
+      <h4>Technologies Used</h4>
+      <ul>
+        <li>React.js for frontend components</li>
+        <li>Node.js for backend services</li>
+        <li>MongoDB for database management</li>
+        <li>Payment gateway integrations</li>
+        <li>Google Analytics for user tracking</li>
+        <li>Shopify platform for eCommerce infrastructure</li>
+      </ul>
+    `
   },
   'task-app': {
     title: 'Task Management App',
@@ -166,4 +175,3 @@ const observer = new IntersectionObserver((entries) => {
 animateElements.forEach(element => {
   observer.observe(element);
 });
-
